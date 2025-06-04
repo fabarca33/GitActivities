@@ -1,1 +1,4 @@
-""When you get to hell, John, tell them Daisy sent you." - Daisy Domergue\nPreferred Tech Stack: Spring Boot / MySQL / Vue" 
+""When you get to hell, John, tell them Daisy sent you." - Daisy Domergue
+Preferred Tech Stack: Spring Boot / MySQL / Vue" 
+
+“This is the second edit for testing a merge conflict. – F.A.”
